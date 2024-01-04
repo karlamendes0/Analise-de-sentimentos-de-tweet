@@ -18,7 +18,7 @@ O dataset escolhido foi "Sentiment140 dataset with 1.6 million tweets". Ele cont
 - Árvore de Decisão
 
 
-# Resultados
+# Resultados das Acurácias
   LSTM 79%, LinearSVC 50,36%, Regressão Logística 50.16%, BernoulliNB 51.37% e Árvore de dicsão 59.95%
 
 
