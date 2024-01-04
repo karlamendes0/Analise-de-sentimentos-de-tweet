@@ -1,5 +1,5 @@
-# Analise-de-sentimentos-de-tweet 
-##Neste caderno, desenvolveremos um modelo de Análise de Sentimento para categorizar um tweet como Positivo ou Negativo.
+# Analise de sentimentos de tweet 
+#Neste caderno, desenvolveremos um modelo de Análise de Sentimento para categorizar um tweet como Positivo ou Negativo.
 
 #Processamento de Linguagem Natural (PNL)
 Disciplina da ciência da computação, inteligência artificial e linguística que se preocupa com a criação de modelos computacionais que processam e compreendem a linguagem natural. Isso inclui: fazer o computador entender o agrupamento semântico de palavras (por exemplo, gato e cachorro são semanticamente mais parecidos que gato e colher), conversão de texto em fala, tradução de idiomas e muito mais.
